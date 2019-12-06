@@ -1,3 +1,6 @@
+//based on Particle Internet Button example code.
+//modified to light up LEDs under or near each of the 4 buttons when pressed
+
 #include "InternetButton.h"
 
 /* How about we make this interactive? */
